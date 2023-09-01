@@ -4,6 +4,18 @@
 
 ---
 
-## Contact
+### About me
+
+---
+
+### Finished courses
+
+---
+
+### Skills
+
+---
+
+### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/overgard/)
